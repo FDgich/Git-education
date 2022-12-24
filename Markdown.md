@@ -52,3 +52,4 @@
 Переход с одной ветки на другую: git checkout branch_name
 Создание ветки: git branch branch_name
 Создать комит: git commit -m "коментарий"
+Откат до предыдущего комита: git reset hard "Номер комита"
